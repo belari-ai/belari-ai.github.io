@@ -1,1 +1,0 @@
-import{j as a,T as s,N as n,b as i,e as o,F as t,d}from"./nav-DxFlPZMz.js";function l({children:r,className:e}){return a.jsxs(s,{className:["site-root",e].filter(Boolean).join(" "),children:[a.jsx(n,{brand:"belari",brandHref:"/",links:i}),a.jsx(o,{children:a.jsx("main",{children:r})}),a.jsx(t,{brand:"belari",brandHref:"/",meta:d})]})}export{l as P};
