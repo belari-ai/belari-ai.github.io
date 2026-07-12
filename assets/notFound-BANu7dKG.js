@@ -1,0 +1,1 @@
+import{j as e,S as r,m as s}from"./nav-BW3o3Ig8.js";import{H as n,L as o}from"./Text-BzIL2i3Z.js";import{P as i}from"./Page-CEcGNgMZ.js";function t(){return e.jsx(i,{children:e.jsxs(r,{children:[e.jsx(n,{level:1,children:"Not found."}),e.jsxs(o,{children:["That page isn’t here. ",e.jsx("a",{href:"/",children:"Back to belari →"})]})]})})}s(e.jsx(t,{}));
