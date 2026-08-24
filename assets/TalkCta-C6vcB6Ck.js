@@ -1,0 +1,1 @@
+import{j as t}from"./nav-D6TcB6me.js";function s(){return t.jsx("section",{className:"talk-cta",children:t.jsxs("a",{className:"talk-cta__link",href:"/talk.html",children:["If you’re ready to ask the right question, ",t.jsx("strong",{children:"let’s talk"}),"."]})})}export{s as T};
