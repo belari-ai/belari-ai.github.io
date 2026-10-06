@@ -1,0 +1,1 @@
+import{j as i,d as o}from"./nav-BlUoAtXc.js";const r={display:"h1",1:"h1",2:"h2",3:"h3"};function d({children:n,level:t=2,as:a,className:h}){const s=String(t),e=a??r[s]??"h2";return i.jsx(e,{className:o("ths-heading",`ths-heading--${s}`,h),children:n})}export{d as H};
