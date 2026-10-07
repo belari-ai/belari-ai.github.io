@@ -1,1 +1,0 @@
-import{j as a,T as e,N as n,b as i,W as o,F as t,c as j}from"./nav-BlUoAtXc.js";function x({children:r,className:s}){return a.jsxs(e,{className:["site-root",s].filter(Boolean).join(" "),children:[a.jsx(n,{brand:"belari",brandHref:"/",links:i}),a.jsx(o,{children:a.jsx("main",{children:r})}),a.jsx(t,{brand:"belari",brandHref:"/",meta:j})]})}export{x as P};

@@ -1,1 +1,0 @@
-import{j as e,d as a}from"./nav-BlUoAtXc.js";function r({children:s,className:t}){return e.jsx("p",{className:a("ths-text",t),children:s})}function x({children:s,className:t}){return e.jsx("p",{className:a("ths-lede",t),children:s})}export{x as L,r as T};
